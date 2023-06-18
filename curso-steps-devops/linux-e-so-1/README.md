@@ -2,34 +2,30 @@
 
 ## O Conceito
 
-&nbsp; #pula linha
+&nbsp;
 
 ### Conteúdo do artigo
 
-- [Título](#título)
-  - [Exemplo de yaml](#exemplo-de-yaml)
-    - [Conteudo](#conteudo)
-    - [Conclusão](#conclusão)
+- [No início, apenas um rodava](#no-inicio)
+  - [O começo do multiprocesso](#multiprocesso)
+  - [O básico sobre hardware](#hardware)
+    - [O linux, como kernel de código aberto e as ferramentas GNU](#olinux)
+    - [O que consiste uma distribuição linux?](#distrolinux)
+    - [Distro escolhida, mãos a obra!!](#atividade)
+    - [Conclusão](#conclusao)
 
 &nbsp;
 
-### Título
-
+### No início, apenas um rodava
 &nbsp;
-
-## exemplo de yaml
-
-```yaml
-key: value
-```
-
+### O começo do multiprocesso
 &nbsp;
-
-## Conteudo
-
+### O básico sobre hardware
 &nbsp;
-
-
+## O linux, como kernel de código aberto e as ferramentas GNU
+&nbsp;
+## O que consiste uma distribuição linux?
+&nbsp;
+## Distro escolhida, mãos a obra!!
+&nbsp;
 ## Conclusão
-
-&nbsp;
