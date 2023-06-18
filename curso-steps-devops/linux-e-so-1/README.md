@@ -6,10 +6,9 @@
 
 ### Conteúdo do artigo
 
-- [Descomplicando o Kubernetes](#descomplicando-o-kubernetes)
-  - [Título](#título)
-    - [Exemplo de yaml](#exemplo-de-yaml)
-      - [Conteudo](#conteudo)
+- [Título](#título)
+  - [Exemplo de yaml](#exemplo-de-yaml)
+    - [Conteudo](#conteudo)
     - [Conclusão](#conclusão)
 
 &nbsp;
