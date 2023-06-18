@@ -7,7 +7,7 @@ Olá!!
 <details>
 <summary>Modulo 1</summary>
 
-- [Linux e Sistemas Operacionais](linux-e-so-1/README.md)
+[Linux e Sistemas Operacionais](linux-e-so-1/README.md)
 
 </details>
 
