@@ -9,10 +9,10 @@
 - [No início, apenas um rodava](#no-inicio)
   - [O começo do multiprocesso](#multiprocesso)
   - [O básico sobre hardware](#hardware)
-    - [O linux, como kernel de código aberto e as ferramentas GNU](#olinux)
-    - [O que consiste uma distribuição linux?](#distrolinux)
-    - [Distro escolhida, mãos a obra!!](#atividade)
-    - [Conclusão](#conclusao)
+- [O linux, como kernel de código aberto e as ferramentas GNU](#olinux)
+  - [O que consiste uma distribuição linux?](#distrolinux)
+  - [Distro escolhida, mãos a obra!!](#atividade)
+- [Conclusão](#conclusao)
 
 &nbsp;
 
