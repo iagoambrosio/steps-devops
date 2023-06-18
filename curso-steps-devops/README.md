@@ -16,6 +16,8 @@ A alma da sua aplicação, geralmente vem em uma tela preta e algumas ordens imp
 
 </details>
 
+---
+
 <details>
 
 <summary> Módulo 2 - Redes </summary>
@@ -23,6 +25,8 @@ A alma da sua aplicação, geralmente vem em uma tela preta e algumas ordens imp
 A coluna dorsal de toda a tecnologia que funciona na web (Sim, este site é focado em tecnologias web), aqui temos uma sessão específica para esmiuçar um pouco dessa imensidão de cabos, protocolos de rede, compartilhamento de recursos, modelos de computação e toda forma de compartilhamento entre computadores.
 
 </details>
+
+---
 
 <details>
 
@@ -32,6 +36,8 @@ Aqui veremos sobre linguagem de programação, desde a sua base, trabalhando com
 
 </details>
 
+---
+
 <details>
 
 <summary> Módulo 4 - Devops </summary>
@@ -39,6 +45,8 @@ Aqui veremos sobre linguagem de programação, desde a sua base, trabalhando com
 Aqui de fato iremos abordar as principais tendências e o dia a dia de quem trabalha de forma ágil, as principais ferramentas e o workflow para ser um Devops Enginner.
 
 </details>
+
+---
 
 <details>
 
