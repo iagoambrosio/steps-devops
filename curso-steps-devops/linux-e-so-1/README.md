@@ -18,11 +18,11 @@
 
 ### No início, apenas um rodava
 &nbsp;
-### O começo do multiprocesso
+## O começo do multiprocesso
 &nbsp;
-### O básico sobre hardware
+## O básico sobre hardware
 &nbsp;
-## O linux, como kernel de código aberto e as ferramentas GNU
+### O linux, como kernel de código aberto e as ferramentas GNU
 &nbsp;
 ## O que consiste uma distribuição linux?
 &nbsp;
