@@ -1,6 +1,4 @@
-# Linux e sistemas operacionais
-
-## O Conceito
+# Linux e sistemas operacionais - O Conceito
 
 &nbsp;
 
