@@ -4,17 +4,17 @@
 
 ### Conteúdo do artigo
 
-- [No início, apenas um rodava](#no-inicio)
-  - [O começo do multiprocesso](#multiprocesso)
-  - [O básico sobre hardware](#hardware)
-- [O linux, como kernel de código aberto e as ferramentas GNU](#olinux)
-  - [O que consiste uma distribuição linux?](#distrolinux)
-  - [Distro escolhida, mãos a obra!!](#atividade)
-- [Conclusão](#conclusao)
+- [No início, apenas um rodava](#no-inicio-apenas-um-rodava)
+  - [O começo do multiprocesso](#o-começo-do-multiprocesso)
+  - [O básico sobre hardware](#O-básico-sobre-hardware)
+- [O linux, como kernel de código aberto e as ferramentas GNU](#O-linux-como-kernel-de-código-aberto-e-as-ferramentas-GNU)
+  - [O que consiste uma distribuição linux?](#O-que-consiste-uma-distribuição-linux?)
+  - [Distro escolhida, mãos a obra!!](#Distro-escolhida-mãos-a-obra!!)
+- [Conclusão](#conclusão)
 
 &nbsp;
 
-### No início, apenas um rodava
+### No inicio apenas um rodava
 &nbsp;
 ## O começo do multiprocesso
 &nbsp;
