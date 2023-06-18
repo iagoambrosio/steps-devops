@@ -51,6 +51,6 @@ Não deixe de contribuir, apontar melhorias ou mandar comentários no repositór
 
 [Step Devops no github](https://github.com/iagoambrosio/steps-devops)
 
-Caso queira contribuir, pode nos enviar um pix no endereço:
+Caso queira contribuir, pode nos enviar um pix com a chave:
 
 [Me apoie 😊 - Maria](f8b9d5a4-0b32-457e-bd78-ee942878bb46)
