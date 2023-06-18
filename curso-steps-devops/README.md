@@ -16,7 +16,7 @@ A alma da sua aplicação, geralmente vem em uma tela preta e algumas ordens imp
 
 </details>
 
----
+&nbsp;
 
 <details>
 
@@ -26,7 +26,7 @@ A coluna dorsal de toda a tecnologia que funciona na web (Sim, este site é foca
 
 </details>
 
----
+&nbsp;
 
 <details>
 
@@ -36,7 +36,7 @@ Aqui veremos sobre linguagem de programação, desde a sua base, trabalhando com
 
 </details>
 
----
+&nbsp;
 
 <details>
 
@@ -46,7 +46,7 @@ Aqui de fato iremos abordar as principais tendências e o dia a dia de quem trab
 
 </details>
 
----
+&nbsp;
 
 <details>
 
