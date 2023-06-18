@@ -18,34 +18,35 @@ A alma da sua aplicação, geralmente vem em uma tela preta e algumas ordens imp
 <details>
 <summary markdown="span"> Módulo 2 - Redes </summary>
 
-A coluna dorsal de toda a tecnologia que funciona na web (Sim, este site é focado em tecnologias web), aqui temos uma sessão específica para esmiuçar um pouco dessa imensidão de cabos, protocolos de rede, compartilhamento de recursos, modelos de computação e toda forma de compartilhamento entre computadores.
+- A coluna dorsal de toda a tecnologia que funciona na web (Sim, este site é focado em tecnologias web), aqui temos uma sessão específica para esmiuçar um pouco dessa imensidão de cabos, protocolos de rede, compartilhamento de recursos, modelos de computação e toda forma de compartilhamento entre computadores.
 
 </details>
 
 <details>
 <summary markdown="span"> Módulo 3 - Programação </summary>
 
-Aqui veremos sobre linguagem de programação, desde a sua base, trabalhando com estruturas simples de qualquer linguagem, seja de baixo ou alto nivel, até conceitos mais abstraidos como funções e objetos.
+- Aqui veremos sobre linguagem de programação, desde a sua base, trabalhando com estruturas simples de qualquer linguagem, seja de baixo ou alto nivel, até conceitos mais abstraidos como funções e objetos.
 
 </details>
 
 <details>
 <summary markdown="span"> Módulo 4 - Devops </summary>
 
-Aqui de fato iremos abordar as principais tendências e o dia a dia de quem trabalha de forma ágil, as principais ferramentas e o workflow para ser um Devops Enginner.
+- Aqui de fato iremos abordar as principais tendências e o dia a dia de quem trabalha de forma ágil, as principais ferramentas e o workflow para ser um Devops Enginner.
 
 </details>
 
 <details>
 <summary markdown="span"> Módulo 5 - Kubernetes </summary>
 
-Uma sessão separada apenas para a grande estrela da arquitetura, e aquilo que acredito eu que seja a melhor forma de arquitetar projetos para web na parte da infraestrutura, também chamado de "O sistema operacional da Nuvem"
+- Uma sessão separada apenas para a grande estrela da arquitetura, e aquilo que acredito eu que seja a melhor forma de arquitetar projetos para web na parte da infraestrutura, também chamado de "O sistema operacional da Nuvem"
 
 </details>
 
 &nbsp;
 
 ## Considerações
+
 
 Não deixe de contribuir, apontar melhorias ou mandar comentários no repositório deste projeto:
 
