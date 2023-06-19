@@ -15,8 +15,17 @@
 &nbsp;
 
 ## No inicio apenas um rodava
+
+É complicado começar a descrever os sistemas operacionais sem antes falar dos computadores, no começo, tivemos todo tipo de arquitetura, até chegarmos nos computadores de hoje em dia, os dados eram gravados em fitas magnéticas, ate hoje são utilizadas em soluções de backup para armazenamento de dados duradouro ( aqueles que se espera durarem mais ).
+
+Para contextualizar, um dos primeiros sistemas operacionais para computadores pessoais ( famosos pcs ) era o DOS, na qual a microsoft mais tarde viria a lançar o MSDOS. Ambos eram sistemas monotarefa, ou seja, Voce só poderia acessar um programa de cada vez, a memória era completamente ocupada por aquele programa, e a cpu só se preocupava em processar aquilo. Imagina, hoje em dia, você só podendo escolher usar o navegador ou a planilha, para fazer um calculo era preciso fechar a planilha e abrir a calculadora.
+
+
 &nbsp;
+
 ### O começo do multiprocesso
+
+
 &nbsp;
 ### O básico sobre hardware
 &nbsp;
