@@ -22,20 +22,47 @@ Para contextualizar, um dos primeiros sistemas operacionais para computadores pe
 
 "Se quiser testar um programa, você pode baixar o dosbox e tentar rodar no seu computador uma emulação do antigo DOS"
 
-Rapidamente, a demanda de termos processos em paralelo no mundo doméstico foi surgindo, e com isso, os sistemas operacionais foram obrigados a adotar uma outra abordagem, um dos seus precursores foi o minix
-
 &nbsp;
 
 ### O começo do multiprocesso
 
+Rapidamente, a demanda de termos processos em paralelo no mundo doméstico foi surgindo, e com isso, os sistemas operacionais foram obrigados a adotar uma outra abordagem, foi ai que nasce o unix, o primeiro sistema multitarefa e multiprocessos, o sistema que permitia rodar multiplos programas em paralelo.
+
+
+" a lógica é simples, ao invés de ligar o pc e rodar um programa só, é melhor colocar como programa primário um programa que chama outros programas, aqui também começa um dos conceitos da computação que são os grafos, ou árvores "
+
+Certo, dito isso surge o minix, um sistema operacional criado pelo professor Tanenbaum para ensinar sobre sistemas operacionais para seus alunos. Boa parte do minix foi tirado como clone do unix, e isso gerou a inspiração para Linus Torvalds criar o seu próprio sistema operacional, que mais tarde seria chamado de linux. Embora não seja bem isso, já chegando para desmentir e tirar alguns conceitos enraizados, explicarei a diferença entre kernel e binários de userspace, ou userland.
+
+
+
+
+
+
+
 
 &nbsp;
 ### O básico sobre hardware
+
+Um sistema operacional é um software, um componente que interage com as peças ( HD, MEMÓRIA, CPU, USB, TECLADO, MOUSE e etc) para permitir que por meio de suas características, calculos binários sejam realizados para transformação de dados em outros dados, tudo em computação é realização de um de-para alguma coisa, e podemos dividir esse sistema em 3 niveis.
+
+
+
+
+" hardware, kernel e userland, a grosso modo, a parte física, o controlador ou intermediário que controla a usabilidade das peças e o espaço do usuário, onde efetivamente rodam os programas "
+
 &nbsp;
 ## O linux, como kernel de código aberto e as ferramentas GNU
+
+
+Você pode pensar que a diferença entre os programas que rodam no espaço do kernel e do userland é basicamente quem faz a gestão do seu software, se faz a gestão de hardware, é contato direto com o kernel, se faz uso de funções de alto nível como um print na tela, está mais para userland, de qualquer forma, tudo passa pelo intermediário, pela kernel  palavra essa que significa "núcleo", sendo literalmente o coração do sistema operacional, a essa parte em específico chamamos de kernel. No dia a dia dos usuários de linux, quase nunca precisamos interagir diretsmente com o kernel, salvo para ativar um módulo ou alterar algum parâmetro, mas 98% das vezes iremos estar utilizando ferramentas de userspace, geralmente ferramentas como bash, cd, cp, mv, ls, sed e awk, todas estas ferramentas são programas que interagem com o kernel para realizar alterações no sistema.
+
+Estas ferramentas chamamos de ferramentario GNU, e este conjunto normalmente chamamos de GNU/linux, uma junção do kernel linux com ferramentas GNU, isso é o suficiente para termos um sistema operacional, mas pode ser que tu nao tenha ouvido falar sobre quando comentam sobre linux, provavelmente as palavras mais ouvidas por você são "debian",  "ubuntu", "red hat" , "arch linux" e outros
+
 &nbsp;
 ### O que consiste uma distribuição linux?
 &nbsp;
 ### Distro escolhida, mãos a obra!!
 &nbsp;
 ## Conclusão
+
+https://pt.m.wikipedia.org/wiki/Sistema_operativo
