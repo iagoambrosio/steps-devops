@@ -20,6 +20,8 @@
 
 Para contextualizar, um dos primeiros sistemas operacionais para computadores pessoais ( famosos pcs ) era o DOS, na qual a microsoft mais tarde viria a lançar o MSDOS. Ambos eram sistemas monotarefa, ou seja, Voce só poderia acessar um programa de cada vez, a memória era completamente ocupada por aquele programa, e a cpu só se preocupava em processar aquilo. Imagina, hoje em dia, você só podendo escolher usar o navegador ou a planilha, para fazer um calculo era preciso fechar a planilha e abrir a calculadora.
 
+'Se quiser testar um programa, você pode baixar o dosbox e tentar rodar no seu computador uma emulação do antigo DOS'
+
 
 &nbsp;
 
