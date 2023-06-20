@@ -30,6 +30,7 @@ Para contextualizar, um dos primeiros sistemas operacionais para computadores pe
 
 Rapidamente, a demanda de termos processos em paralelo no mundo doméstico foi surgindo, e com isso, os sistemas operacionais foram obrigados a adotar uma outra abordagem, foi ai que nasce o unix, o primeiro sistema multitarefa e multiprocessos, o sistema que permitia rodar multiplos programas em paralelo.
 
+![Alt text](./../../images/multitarefa.png)
 
 " a lógica é simples, ao invés de ligar o pc e rodar um programa só, é melhor colocar como programa primário um programa que chama outros programas, aqui também começa um dos conceitos da computação que são os grafos, ou árvores "
 
@@ -41,8 +42,13 @@ Certo, dito isso surge o minix, um sistema operacional criado pelo professor Tan
 
 Um sistema operacional é um software, um componente que interage com as peças ( HD, MEMÓRIA, CPU, USB, TECLADO, MOUSE e etc) para permitir que por meio de suas características, calculos binários sejam realizados para transformação de dados em outros dados, tudo em computação é realização de um de-para alguma coisa, e podemos dividir esse sistema em 3 niveis.
 
+![Alt text](./../../images/sistemas-operacionais1.png)
 
-" hardware, kernel e userland, a grosso modo, a parte física, o controlador ou intermediário que controla a usabilidade das peças e o espaço do usuário, onde efetivamente rodam os programas "
+" hardware, kernel e userland (modo usuário),o controlador ou intermediário que controla a usabilidade das peças e o espaço do usuário, onde efetivamente rodam os programas, este é o kernel"
+
+Também podemos demonstrar a utilização do kernel em camdas, também chamadas de rings, literalmente anéis onde quanto mais perto do centro, mais privilégios o software possui, e mais perto do hardware ele está.
+
+![Alt text](./../../images/rings.png)
 
 &nbsp;
 ## O linux, como kernel de código aberto e as ferramentas GNU
@@ -59,4 +65,8 @@ Estas ferramentas chamamos de ferramentario GNU, e este conjunto normalmente cha
 &nbsp;
 ## Conclusão
 
-https://pt.m.wikipedia.org/wiki/Sistema_operativo
+
+### Referências
+
+[Sistema operativo, wikipedia](https://pt.m.wikipedia.org/wiki/Sistema_operativo)
+[Unix, wikipedia](https://pt.wikipedia.org/wiki/Unix)
