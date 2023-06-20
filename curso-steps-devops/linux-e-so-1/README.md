@@ -20,6 +20,8 @@
 
 Para contextualizar, um dos primeiros sistemas operacionais para computadores pessoais ( famosos pcs ) era o DOS, na qual a microsoft mais tarde viria a lançar o MSDOS. Ambos eram sistemas monotarefa, ou seja, Voce só poderia acessar um programa de cada vez, a memória era completamente ocupada por aquele programa, e a cpu só se preocupava em processar aquilo. Imagina, hoje em dia, você só podendo escolher usar o navegador ou a planilha, para fazer um calculo era preciso fechar a planilha e abrir a calculadora.
 
+
+
 "Se quiser testar um programa, você pode baixar o dosbox e tentar rodar no seu computador uma emulação do antigo DOS"
 
 &nbsp;
@@ -34,18 +36,10 @@ Rapidamente, a demanda de termos processos em paralelo no mundo doméstico foi s
 Certo, dito isso surge o minix, um sistema operacional criado pelo professor Tanenbaum para ensinar sobre sistemas operacionais para seus alunos. Boa parte do minix foi tirado como clone do unix, e isso gerou a inspiração para Linus Torvalds criar o seu próprio sistema operacional, que mais tarde seria chamado de linux. Embora não seja bem isso, já chegando para desmentir e tirar alguns conceitos enraizados, explicarei a diferença entre kernel e binários de userspace, ou userland.
 
 
-
-
-
-
-
-
 &nbsp;
 ### O básico sobre hardware
 
 Um sistema operacional é um software, um componente que interage com as peças ( HD, MEMÓRIA, CPU, USB, TECLADO, MOUSE e etc) para permitir que por meio de suas características, calculos binários sejam realizados para transformação de dados em outros dados, tudo em computação é realização de um de-para alguma coisa, e podemos dividir esse sistema em 3 niveis.
-
-
 
 
 " hardware, kernel e userland, a grosso modo, a parte física, o controlador ou intermediário que controla a usabilidade das peças e o espaço do usuário, onde efetivamente rodam os programas "
