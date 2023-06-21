@@ -46,9 +46,12 @@ Um sistema operacional é um software, um componente que interage com as peças 
 
 " hardware, kernel e userland (modo usuário),o controlador ou intermediário que controla a usabilidade das peças e o espaço do usuário, onde efetivamente rodam os programas, este é o kernel"
 
-Também podemos demonstrar a utilização do kernel em camdas, também chamadas de rings, literalmente anéis onde quanto mais perto do centro, mais privilégios o software possui, e mais perto do hardware ele está.
+A stack de hardware é dividida em 5 peças, sendo estes recursos essenciais para o funcionamento dos computadores. O primeiro e mais essencial é a cpu, precisamente a unidade dentro do computador, responsável por realizar os calculos de todo sistema através de instruções ( comandos ), estas instruções possuem lógicas e algoritmo para determinadas finalidades ( calculo de ponto flutuante, virtualização e calculos mais genericos ). A memória, é o local onde as informações utilizadas pelo computador são alocadas, essa memória geralmente é chamada de RAM ( Random Acess Memory ) e tem a característica de ser volátil ( nao persiste informações). Para conectar estes dois elemento utilizamos uma placa mãe, onde seus compotente fazem toda gestão de entrada e saida (i/o), este conceito abarca todo fluxo de  informações que entra e sai, que vai de algum lugar para outro,  para realizar a conexão de seus componentes utilizamos sockets compativeis, tanto para o processador(exemplo AM4 para processadores AMD) quanto para a memória (DDR4, tipo de memória compativel com o socket AM4 , e por consequência, por sua família de processadores). Devemos ficar atentos aos HDS/SSDS, respectivamente Hard Disk e Solid State Disk,
+
+Também podemos demonstrar a utilização do kernel em camadas,  chamadas de rings, literalmente anéis onde quanto mais perto do centro, mais privilégios o software possui, e mais perto do hardware ele está.
 
 ![Alt text](./../../images/rings.png)
+
 
 &nbsp;
 ## O linux, como kernel de código aberto e as ferramentas GNU
