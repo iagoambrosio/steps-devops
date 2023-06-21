@@ -65,8 +65,33 @@ Estas ferramentas chamamos de ferramentario GNU, e este conjunto normalmente cha
 
 &nbsp;
 ### O que consiste uma distribuição linux?
+
+3 são os critérios para separar as distribuições linux em suas principais finalidades, são eles:
+
+- Gerenciador de pacotes
+- mantenedores
+- programas pré instalados
+
+Estes critérios dizem respeito sobre a finalidade de cada programa, bem como a forma de cada distribuições ser identificada, temos distribuições que sao derivadas de outras distribuições, como exemplo o ubuntu que é uma derivação do debian, ou o fedora, que é uma derivação do red hat, qual a diferença entre eles? Bem, o Ubuntu foca em ser uma distribuição de desktop, assim como o fedora, e seus "pais" são distribuições mais genéricas e agnosticas, qualquer debian ou redhat pode virar um ubuntu ou fedora, basta instalar os mesmos programas, falaremos mais sobre pacotes na parte de virtualização e gerenciamento de programas.
+
+Para os fins práticos das nossas atividades, irei fazer um exercício na qual utilizando o docker ( ferramenta para gerenciar e criar imagens para containers ) eu crio uma distribuição que pode ser utilizada em qualquer computador, escolhi o debian por ser mais portátil, e é com ele que seguirei este curso.
+
+
 &nbsp;
 ### Distro escolhida, mãos a obra!!
+
+Este tutorial consiste nos seguintes passos:
+
+- baixar e instalar o docker
+- baixar uma imagem e extrai o conteúdo da imagem, este será nossa parte de userland
+- criar um disco raw de 25 gb, será o disco utilizado para nossa maquina virtual
+- criar as partições, formatar com sistema de arquivo ext4 e montar
+-  descompactar o conteúdo do docker la dentro
+- making a chroot
+- instalar dependencias  e fazer configurações( kernel, grub, fstab)
+- Ligar a maquina virtual
+
+
 &nbsp;
 ## Conclusão
 
