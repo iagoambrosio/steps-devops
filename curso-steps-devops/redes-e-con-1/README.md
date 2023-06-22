@@ -1,15 +1,13 @@
-Linux e sistemas operacionais - O Conceito
+Redes e conexão - O Conceito
 
 &nbsp;
 
 ### Conteúdo do artigo
 
-- [No início, apenas um rodava](#no-inicio-apenas-um-rodava)
-  - [O começo do multiprocesso](#o-começo-do-multiprocesso)
-  - [O básico sobre hardware](#O-básico-sobre-hardware)
-- [O linux, como kernel de código aberto e as ferramentas GNU](#O-linux-como-kernel-de-código-aberto-e-as-ferramentas-GNU)
-  - [O que consiste uma distribuição linux?](#O-que-consiste-uma-distribuição-linux?)
-  - [Distro escolhida, mãos a obra!!](#Distro-escolhida-mãos-a-obra!!)
+- [O começo da era da telecomunicação](#o- começo-da-era-da-telecomunicacao)
+  - [As conexões de rede](#o-começo-do-multiprocesso)
+  - [Os tipos de rede ( Topologia)](#O-básico-sobre-hardware)
+- [Um laboratório para testes de rede](#um-laboratorio-para-testes-de-rede)
 - [Conclusão](#conclusão)
 
 &nbsp;
