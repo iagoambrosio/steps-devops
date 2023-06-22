@@ -6,6 +6,17 @@ O intuito é garantir que qualquer pessoa que tenha um computador e disponibilid
 
 Você pode escolher o tópico que precisa aprender prioritariamente, alguns programadores por exemplo podem pular a parte de programação e ir direto para devops, ou caso necessário, acessar a parte de distemas operacionais e linux para desenvolver suas tecnicas de shell scripting ou para um entendimento melhor de como funcionam os computadores. Caso seja um iniciante na área, recomendo começar na parte de linux e sistemas operacionais.
 
+## Recomendações
+
+Para as atividades e desenvolvimento, é recomendado um computador com linux, seja uma máquina virtual ou um dual boot para os usuários casuais de linux, para programadores, recomendo primariamente a instalação de um sistema operacional na própria máquina de desenvolvimento.
+
+Sobre requisitos de hardware, recomendo no mínimo:
+
+- cpu com 4 nucleos, duas threads
+- Memória volátil de 4GB ( RAM )
+- Armazenamento 50 GB ( HD/SSD)
+- Conexão com a internet
+
 ## Resumo sobre os Conteúdos
 
 <details>
