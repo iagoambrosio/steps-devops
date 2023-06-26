@@ -1,15 +1,14 @@
-# Linux e sistemas operacionais - O Conceito
+# Programação - O Conceito
 
 &nbsp;
 
 ### Conteúdo do artigo
 
-- [No início, apenas um rodava](#no-inicio-apenas-um-rodava)
-  - [O começo do multiprocesso](#o-começo-do-multiprocesso)
-  - [O básico sobre hardware](#O-básico-sobre-hardware)
-- [O linux, como kernel de código aberto e as ferramentas GNU](#O-linux-como-kernel-de-código-aberto-e-as-ferramentas-GNU)
-  - [O que consiste uma distribuição linux?](#O-que-consiste-uma-distribuição-linux?)
-  - [Distro escolhida, mãos a obra!!](#Distro-escolhida-mãos-a-obra!!)
+- [O conceito básico dos programas](#o-conceito-básico-dos-programas)
+  - [Entendendo execução](#entendendo-execução)
+  - [jit, compilados, interpretados](#jit-compilados-interpretados)
+- [As linguagens e suas utilizações](#as-linguagens-e-suas-utilizações)
+  - [Serviços complementares?](#serviços-complementares)
 - [Conclusão](#conclusão)
 
 &nbsp;
@@ -32,10 +31,6 @@
 
 &nbsp;
 ### O que consiste uma distribuição linux?
-
-
-&nbsp;
-### Distro escolhida, mãos a obra
 
 
 &nbsp;
