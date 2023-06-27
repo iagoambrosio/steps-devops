@@ -8,29 +8,28 @@
   - [Entendendo execução](#entendendo-execução)
   - [jit, compilados, interpretados](#jit-compilados-interpretados)
 - [As linguagens e suas utilizações](#as-linguagens-e-suas-utilizações)
-  - [Serviços complementares?](#serviços-complementares)
+  - [Serviços complementares](#serviços-complementares)
 - [Conclusão](#conclusão)
 
 &nbsp;
+## O conceito básico dos programas
 
-## No inicio apenas um rodava
-
-
-&nbsp;
-
-### O começo do multiprocesso
 
 
 &nbsp;
-### O básico sobre hardware
+### Entendendo execução
 
 
 &nbsp;
-## O linux, como kernel de código aberto e as ferramentas GNU
+### jit, compilados, interpretados
 
 
 &nbsp;
-### O que consiste uma distribuição linux?
+## As linguagens e suas utilizações
+
+
+&nbsp;
+### Serviços complementares
 
 
 &nbsp;
