@@ -38,7 +38,6 @@ O exemplo mais simples é a internet, um conjunto de redes Lan, esse amontoado t
 Além dos computadores que fazem parte da rede, precisamos de hardware especializado em fazer as comutações de pacote, estes hardwares são conhecidos como switch e roteadores, mas antes eram utilizados outros tipos de dispositivos, uma explicação breve sobre cada um:
 
  - Hub
-
 Responsável por agrupar dispositivos de rede e enviar pacotes entre eles, não é mais utilizado por conta da sua eficiência, ele envia o pacote para todos os participantes da rede, sem nenhuma regra para mitigar esse problema.
 
  - Switch
@@ -53,7 +52,9 @@ A seguir, iremos tratar de alguns tópicos sobre a forma como a rede se comporta
 
 ![Topologia de rede](topologia-rede.png)
 
-É a forma como nossa rede é distribuida, por padrão sempre será em arvore (hierarquica), é o modelo mais aplicado no nosso cotidiano pois é assim que nossa Lan funciona, já o formato estrela (ou também, grafo) se aplica a Wan, pois não tem um ponto único para comunicação, toda a malha de conexão é distribuida.
+É a forma como nossa rede é distribuida, por padrão sempre será em arvore (hierarquica), é o modelo mais aplicado no nosso cotidiano pois é assim que nossa Lan funciona, já o formato estrela (ou também, grafo) se aplica a Wan, pois não tem um ponto único para comunicação, toda a malha de conexão é distribuida. Alem disso, temos os modelos de circuito fechado ( estrela, anelar, peer to peer) na qual toda conexão tem um começo e um fim determinado.
+
+
 
 &nbsp;
 ## Um laboratório para testes de rede
