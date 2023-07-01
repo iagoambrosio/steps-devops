@@ -44,9 +44,11 @@ Um sistema operacional é um software, um componente que interage com as peças 
 
 ![Alt text](./../../images/sistemas-operacionais1.png)
 
-" hardware, kernel e userland (modo usuário),o controlador ou intermediário que controla a usabilidade das peças e o espaço do usuário, onde efetivamente rodam os programas, este é o kernel"
+" hardware, kernel e userland (modo usuário),o controlador ou intermediário que controla a usabilidade das peças e o espaço do usuário, onde efetivamente rodam os programas, este é o kernel "
 
 A stack de hardware é dividida em 5 peças, sendo estes recursos essenciais para o funcionamento dos computadores. O primeiro e mais essencial é a cpu, precisamente a unidade dentro do computador, responsável por realizar os calculos de todo sistema através de instruções ( comandos ), estas instruções possuem lógicas e algoritmo para determinadas finalidades ( calculo de ponto flutuante, virtualização e calculos mais genericos ). A memória, é o local onde as informações utilizadas pelo computador são alocadas, essa memória geralmente é chamada de RAM ( Random Acess Memory ) e tem a característica de ser volátil ( nao persiste informações). Para conectar estes dois elemento utilizamos uma placa mãe, onde seus compotente fazem toda gestão de entrada e saida (i/o), este conceito abarca todo fluxo de  informações que entra e sai, que vai de algum lugar para outro,  para realizar a conexão de seus componentes utilizamos sockets compativeis, tanto para o processador(exemplo AM4 para processadores AMD) quanto para a memória (DDR4, tipo de memória compativel com o socket AM4 , e por consequência, por sua família de processadores). Devemos ficar atentos aos HDS/SSDS, respectivamente Hard Disk e Solid State Disk, é esta classe de dispositivos que guarda suas informações, também chamado de "memória persistente", é comum a confusão entre RAM e armazenamento persistente, mas a diferença é que um apaga seus dados quando o computador é desligado, ou outro não.
+
+![Alt text](./../../images/componentes-computador.png)
 
 " Uma separação entre disco, memória, cpu e armazenamento "
 
@@ -83,12 +85,12 @@ Para os fins práticos das nossas atividades, irei fazer um exercício na qual u
 Este tutorial consiste nos seguintes passos:
 
 - baixar e instalar o docker
-- baixar uma imagem e extrai o conteúdo da imagem, este será nossa parte de userland
+- baixar uma imagem e extrair o conteúdo da imagem, este será nossa parte de userland
 - criar um disco raw de 25 gb, será o disco utilizado para nossa maquina virtual
 - criar as partições, formatar com sistema de arquivo ext4 e montar
--  descompactar o conteúdo do docker la dentro
+- descompactar o conteúdo do docker la dentro
 - making a chroot
-- instalar dependencias  e fazer configurações( kernel, grub, fstab)
+- instalar dependencias e fazer configurações( kernel, grub, fstab)
 - Ligar a maquina virtual
 
 
